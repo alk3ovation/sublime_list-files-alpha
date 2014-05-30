@@ -1,0 +1,5 @@
+[
+    { 
+        "keys": ["ctrl+shift+a"], "command": "list_open_files_alphabetically"
+    }
+]

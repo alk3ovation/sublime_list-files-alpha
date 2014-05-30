@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "command": "list_open_files_alphabetically",
+                "caption": "List Open Files Alphabetically"
+            }
+        ]
+    }
+]
